@@ -16,8 +16,8 @@
 ![Makanlah sebelum dimakan.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Makanlah%20sebelum%20dimakan.)
 
 
-### 💍 Quote
-![CyreneMyIstri](https://raw.githubusercontent.com/erwush/erwush/main/CyrenePict.png)
+### 💍 My
+![CyreneMyIstri](https://raw.githubusercontent.com/erwush/erwush/main/Cyrene.png)
 
 ---
 
