@@ -13,11 +13,26 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erwush&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
+  <!-- Banner Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Makanlah%20sebelum%20dimakan." />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/erwush/erwush/main/Cyrene.png" width="250" style="border: 2px solid gold; border-radius: 15px;">
 </p>
 
+<p align="center">
+  <!-- Gambar 1 -->
+  <img src="https://raw.githubusercontent.com/erwush/erwush/main/Cyrene.png" 
+       width="200" 
+       style="border: 2px solid gold; border-radius: 15px; margin: 5px;">
+  
+  <!-- Gambar 2 -->
+  <img src="https://raw.githubusercontent.com/erwush/erwush/main/Cyrene.png" 
+       width="200" 
+       style="border: 2px solid gold; border-radius: 15px; margin: 5px;">
+  
+  <!-- Gambar 3 -->
+  <img src="https://raw.githubusercontent.com/erwush/erwush/main/Cyrene.png" 
+       width="200" 
+       style="border: 2px solid gold; border-radius: 15px; margin: 5px;">
+</p>
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Erwush) 
