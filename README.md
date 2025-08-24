@@ -21,13 +21,13 @@
 <p align="center">
   <!-- Tiga gambar sejajar -->
   <img src="https://raw.githubusercontent.com/erwush/erwush/main/Castorice.png" 
-       width="500" 
+       width="350" 
        style="border: 2px solid gold; border-radius: 15px; margin: 10px;">
   <img src="https://raw.githubusercontent.com/erwush/erwush/main/Cyrene.png" 
-       width="500" 
+       width="350" 
        style="border: 2px solid gold; border-radius: 15px; margin: 10px;">
   <img src="https://raw.githubusercontent.com/erwush/erwush/main/Sparkle.png" 
-       width="500" 
+       width="350" 
        style="border: 2px solid gold; border-radius: 15px; margin: 10px;">
 </p>
 
