@@ -12,14 +12,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=erwush&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erwush&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Quote
-![Makanlah sebelum dimakan.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Makanlah%20sebelum%20dimakan.)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Makanlah%20sebelum%20dimakan." />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/erwush/erwush/main/Cyrene.png" width="250" style="border: 2px solid gold; border-radius: 15px;">
+</p>
 
-
-### 💍 My
-![CyreneMyIstri](https://raw.githubusercontent.com/erwush/erwush/main/Cyrene.png)
-
----
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Erwush) 
