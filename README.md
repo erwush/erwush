@@ -15,7 +15,7 @@
 ### 💍 My
 <p align="center">
   <!-- Banner Kutipan -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Setialah%20dengan%20yang%20dua%20dimensi,%20sampai%20bertemu%20yang%20asli." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Setialah%20dengan%20dua%20dimensi,%20sampai%20bertemu%20yang%20asli." />
 </p>
 
 <p align="center">
