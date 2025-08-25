@@ -18,6 +18,18 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Setialah%20dengan%20dua%20dimensi,%20sampai%20bertemu%20yang%20asli." />
 </p>
 
+<p align="center">
+  <!-- Tiga gambar sejajar -->
+  <img src="https://raw.githubusercontent.com/erwush/erwush/main/Castorice.png" 
+       width="300" 
+       style="border: 2px solid gold; border-radius: 15px; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/erwush/erwush/main/Cyrene.png" 
+       width="300" 
+       style="border: 2px solid gold; border-radius: 15px; margin: 10px;">
+  <img src="https://raw.githubusercontent.com/erwush/erwush/main/Sparkle.png" 
+       width="300" 
+       style="border: 2px solid gold; border-radius: 15px; margin: 10px;">
+</p>
 
 
   ## 💰 You can help me by Donating
