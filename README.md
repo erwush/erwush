@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: Belum Kepikiran Project (Not the actual name)<br>🌱 I’m currently learning C# for Unity, Java, and Pixel Art<br>🗺️ Exploring Unity, Blender and Aseprite<br>🎮 Honkai: Star Rail Enthusiast<br>⚡ Sleepy Ahh Person and Kinda Autistic (self diagnosed)<br>💍 Sparkle, Castorice & Cyrene
+🔭 Currently working on: Belum Kepikiran Project (Not the actual name)<br>🌱 I’m currently learning C# for Unity, Java, and Pixel Art<br>🗺️ Exploring Unity, Blender and Aseprite<br>🎮 Honkai: Star Rail Enthusiast<br>⚡ Sleepy Ahh Person<br>💍 Sparkle, Castorice & Cyrene
 
 
 ## 🌐 Socials:
