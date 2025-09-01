@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=erwush&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erwush&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 💍 My
+## 💍 My
 <p align="center">
   <!-- Banner Kutipan -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Setialah%20dengan%20dua%20dimensi,%20sampai%20bertemu%20yang%20asli." />
