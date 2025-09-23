@@ -34,7 +34,7 @@
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Erwush) 
-  [![Saweria](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/Erwushwushwush) 
+  [![Saweria](https://img.shields.io/badge/Saweria-FFCC00?style=for-the-badge&logo=saweria&logoColor=white)](https://saweria.co/Erwushwushwush) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
