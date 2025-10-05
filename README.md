@@ -16,7 +16,7 @@
 <p align="center">
   <!-- Banner Kutipan -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Setialah%20dengan%20dua%20dimensi,%20sampai%20bertemu%20yang%20asli." />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Be%20loyal%20with%20two%20dimension%20until%20you%20meet%20the%20right%20person." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Be%20loyal%20with%20two%20dimension%20until%20you%20find%20the%20right%20person." />
 </p>
 
 <p align="center">
