@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 Currently working on: Belum Kepikiran Project (Not the actual name)<br>🌱 I’m currently learning C# for Unity, Java, and Pixel Art<br>🗺️ Exploring Unity, Blender and Aseprite<br>🎮 Honkai: Star Rail Enthusiast<br>⚡ Sleepy Ahh Person<br>💍 Sparkle, Castorice & Cyrene
 
+![Accent Ungu](https://img.shields.io/badge/Kebijaksanaan-Ungu-purple)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/704159926355755011) 
