@@ -31,6 +31,9 @@
   <img src="https://raw.githubusercontent.com/erwush/erwush/main/Cyrene.png" 
        width="300" 
        style="border: 2px solid gold; border-radius: 15px; margin: 10px;">
+   <img src="https://raw.githubusercontent.com/erwush/erwush/main/CyreneStarlightEcho.png" 
+       width="300" 
+       style="border: 2px solid gold; border-radius: 15px; margin: 10px;">
   <img src="https://raw.githubusercontent.com/erwush/erwush/main/Sparkle.png" 
        width="300" 
        style="border: 2px solid gold; border-radius: 15px; margin: 10px;">
