@@ -3,7 +3,7 @@
        style="border: 2px solid gold; border-radius: 15px; margin: 10px;">
 
 # 💫 About Me:
-🔭 Currently working on: 3 Random Project (Not the name, actually 3 project)<br>🌱 I’m currently learning C# for Unity, Java, and Pixel Art<br>🗺️ Exploring Unity, Blender and Aseprite<br>🎮 Honkai: Star Rail Enthusiast<br>⚡ Sleepy Ahh Person<br>💍 Sparkle, Castorice & Cyrene
+🔭 Currently working on: idkhowmany Project <br>🌱 I’m currently learning C# for Unity, Java, and Pixel Art<br>🗺️ Exploring Unity, Blender and Aseprite<br>🎮 Honkai: Star Rail Enthusiast<br>⚡ Sleepy Ahh Person<br>💍 Sparkle, Castorice & Cyrene
 
 
 ## 🌐 Socials:
